@@ -26,7 +26,8 @@ const Services = () => {
           </Grid>
         ))}
       </Grid>
-    </Box>        </div>
+    </Box>       
+     </div>
     );
 };
 
