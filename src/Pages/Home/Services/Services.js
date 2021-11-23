@@ -23,6 +23,7 @@ const Services = () => {
         {Array.from(Array(6)).map((_, index) => (
           <Grid item xs={2} sm={4} md={4} key={index}>
             <Item>xs=2</Item>
+            
           </Grid>
         ))}
       </Grid>
